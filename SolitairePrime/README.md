@@ -7,7 +7,3 @@ Here are the rules of the game:
 4)If the Sum is not prime, take the next card from the top of the deck and place it on top of the card 
   stack (pile or hand) on the table.
 5)The Sum is now the sum of all cards in the stack on the table.6)Go to instruction #3
-
-It uses these 2 classes to run the game: 
-1)The Deck class which will create the deck of cards
-2)The Card class which creates cards
