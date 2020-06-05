@@ -305,5 +305,5 @@ BigInt goldRabbits(BigInt n){
 }
 
 void pause(){
-    cout << "Press Enter to continue..."; getchar();
+    cout << "Press Enter to continue..."; getchar() ;
 }
