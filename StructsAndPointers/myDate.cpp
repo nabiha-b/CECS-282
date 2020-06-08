@@ -179,6 +179,7 @@ int myDate::getYear(){
     return year;
 }
 
+
 //return the number of days since the current year began
 int myDate::dayOfYear(){
     //get current date JD
